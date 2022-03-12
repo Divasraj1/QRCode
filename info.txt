@@ -1,0 +1,1 @@
+Hi, This is QR Code Frontend Component Challenge by Frontend Mentor.
